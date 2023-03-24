@@ -3,3 +3,4 @@
 /src/*
 .idea
 .docker/nginx/default.conf
+.env
